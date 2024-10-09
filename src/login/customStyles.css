@@ -1,0 +1,20 @@
+/* 修改登录按钮的颜色 */
+.pf-c-button.pf-m-primary {
+    color: var(--pf-c-button--m-primary--Color);
+    background-color: #f2d971;
+}
+
+/* 修改链接颜色 */
+a {
+    color: #f2d971;
+    text-decoration: none;
+}
+/* modify title color */
+.card-pf {
+    margin: 0 auto;
+    box-shadow: var(--pf-global--BoxShadow--lg);
+    padding: 0 20px;
+    max-width: 500px;
+    border-top: 4px solid;
+    border-color: #f2d971;
+}
